@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinaykumarx
 - 👀 I’m interested in Full stack devolopment
-- 🌱 I’m currently working Front end (React-native,React js)
+- 🌱 I’m currently working on Front end (React-native,React js)
 - 📫 How to reach me ...Mail id: vinaykumarx135@gmail.com
 
 <!---
