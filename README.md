@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @Vinaykumarx
-- 👀 I’m interested in Full stack devolopment
-- 🌱 I’m currently working on Front end (React-native,React js)
-- 📫 How to reach me ...Mail id: vinaykumarx135@gmail.com
+# 👋 Hey there! I'm Vinay Kumar  
 
-<!---
-Vinaykumarx/Vinaykumarx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 AI Engineer | 👨‍💻 Full-Stack Dev | 📚 Always Learning  
+
+### 🔥 What I Build  
+- 🧠 RAG systems that *actually* understand PDFs  
+- 📄 Tools that read text, tables, images, and scientific figures  
+- 📱 Apps with React & React Native  
+- 🧪 Experiments in multimodal AI  
+
+### 🛠 Tech Toolbox  
+🐍 Python · 🔥 PyTorch · 🤗 Transformers  
+📦 Docker · 🗂 Vector DBs (LanceDB / Qdrant)  
+🌐 React · React Native · Node.js  
+🛠 Git · VS Code · Streamlit · FastAPI  
+
+### 🌱 Currently Leveling Up  
+- Multimodal AI (vision + language)  
+- Document understanding pipelines  
+- Model deployment & optimization  
+
+### 📫 Find me at  
+**vinaykumarx135@gmail.com**  
+
+✨ *Building cool things with code and curiosity.*
